@@ -5,12 +5,12 @@
  
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=w40141&theme=vue)
  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=w40141&show_icons=true)
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w40141&layout=compact&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=w40141&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=w40141&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w40141&layout=compact&langs_count=8" />
+</a>
 
 <!--
 **w40141/w40141** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
