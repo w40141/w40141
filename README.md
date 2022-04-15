@@ -6,10 +6,10 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=w40141&theme=vue)
  
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api?username=w40141&count_private=true&show_icons=true" />
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api?username=w40141&count_private=true&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w40141&layout=compact&langs_count=8" />
+  <img align="left" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=w40141&layout=compact&langs_count=8" />
 </a>
 
 <!--
